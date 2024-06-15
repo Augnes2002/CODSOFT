@@ -34,7 +34,7 @@ class Bank{
     }
 }
 
-public class ATM {
+public class Codsoft_ATM_Interface {
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         Bank account=new Bank(5000);

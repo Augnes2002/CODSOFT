@@ -104,7 +104,7 @@ class GUI implements ActionListener{
        
     }
 }
-public class NumberGuesserGUI{
+public class Codsoft_NumberGuesserGUI{
     public static void main(String[] args) {
         new GUI();
     }

@@ -38,7 +38,7 @@ class Calculator {
     }
 }
 
-public class MarkCalculator {
+public class Codsoft_GradeCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean continueProgram = true;
